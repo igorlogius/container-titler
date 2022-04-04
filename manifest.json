@@ -1,0 +1,13 @@
+{
+  "author": "igorlogius",
+  "background": {
+	"scripts": ["background.js"]
+  },
+  "description": "",
+  "manifest_version": 2,
+  "name": "container-titler",
+  "permissions": [
+    "contextualIdentities"
+  ],
+  "version": "1.0.0"
+}
