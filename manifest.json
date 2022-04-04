@@ -3,7 +3,7 @@
   "background": {
 	"scripts": ["background.js"]
   },
-  "description": "",
+  "description": "adds active container name to the window title",
   "manifest_version": 2,
   "name": "container-titler",
   "permissions": [
