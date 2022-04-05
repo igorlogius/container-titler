@@ -3,11 +3,14 @@
   "background": {
 	"scripts": ["background.js"]
   },
+  "icons": {
+    "128": "icon.png"
+  },
   "description": "adds active container name to the window title",
   "manifest_version": 2,
   "name": "container-titler",
   "permissions": [
     "contextualIdentities"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
